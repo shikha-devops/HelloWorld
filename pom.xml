@@ -32,7 +32,7 @@
         <version>2.4.0</version>
         <configuration>
           <to>
-            <image>myimage</image>
+            <image>mycontainerregistry121.azurecr.io</image>
           </to>
         </configuration>
       </plugin>
